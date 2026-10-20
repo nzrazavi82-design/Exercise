@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+
+<form>
+    <table>
+        <tr>
+            <td><label>f name</label></td>
+            <td><input type="text" name="fname"></td>
+        </tr>
+
+        <tr>
+            <td><label>L name</label></td>
+            <td><input type="text" name="lname"></td>
+        </tr>
+
+        <tr>
+            <td><label>phone</label></td>
+            <td><input type="text" name="phone"></td>
+        </tr>
+
+        <tr>
+            <td><label>City</label></td>
+            <td><input type="text" name="city"></td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td><button type="button">Next</button></td>
+        </tr>
+    </table>
+</form>
+
+</body>
+</html>
