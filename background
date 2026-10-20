@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body style="background-color:     
+white; text-align: center;">
+
+    <h2 style="color:green;">
+        Welcome to ma page
+    </h2>
+
+    <p style="color: green;">
+        Hope enjoy.
+    </p>
+
+</body>
+</html>
