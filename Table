@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table</title>
+</head>
+<body>
+
+<table border="1" cellpadding="15">
+    <tr>
+        <th>f name</th>
+        <th>L name</th>
+    </tr>
+
+    <tr>
+        <td>nazanin</td>
+        <td>razavi</td>
+    </tr>
+
+    <tr>
+        <td>nastaran</td>
+        <td>moradi</td>
+    </tr>
+</table>
+
+</body>
+</html>
